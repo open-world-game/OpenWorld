@@ -1,5 +1,3 @@
-<img width="1075" alt="197965650-e324619f-43d7-42d4-9500-8084825d2f5c (1)" src="https://user-images.githubusercontent.com/3343322/201548838-2b86be53-ecd1-42f2-8e31-afd482bc2b27.png">
-
 ## What:
 * A Next Gen Open Source, Open World, Community Driven Metaverse
 * Let’s build something open, for everyone.
